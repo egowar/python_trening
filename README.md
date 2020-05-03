@@ -1,1 +1,1 @@
-# python_trening
+# reprository gor python treniung
